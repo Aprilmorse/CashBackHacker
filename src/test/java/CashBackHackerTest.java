@@ -1,7 +1,5 @@
 package ru.netology;
 
-import junit.framework.TestCase;
-import org.junit.Assert;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
